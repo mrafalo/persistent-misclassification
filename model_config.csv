@@ -1,0 +1,2 @@
+model_name;learning_rate;batch_size;optimizer;loss_function;features;img_size;channels;augment;filter
+cnn1;0.005;8;SGD;categorical_crossentropy;['none'];140;3;0;none
