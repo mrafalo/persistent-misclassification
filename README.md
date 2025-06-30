@@ -1,8 +1,6 @@
 # Persistent Misclassification in Thyroid Ultrasound Imaging
 
-This repository contains the code, data preparation scripts, and experimental results for the study:
-
-**"Persistent Misclassification as a Source of Diagnostic Uncertainty in Thyroid Ultrasound Imaging"**
+This repository contains the code, data preparation scripts, and experimental results for the study.
 
 ## Overview
 
